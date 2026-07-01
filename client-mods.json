@@ -1,0 +1,82 @@
+{
+  "version": "1782902643114",
+  "mcVersion": "1.21.1",
+  "mods": [
+    {
+      "id": "controlify_3_0_0_beta_3_1_21_1_neoforge",
+      "name": "Controlify (Controller support)",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Adds the best controller support to Minecraft Java edition!",
+      "filename": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
+      "sha256": "2d9713d1268401791b9b8a017bda6971c02b4defa800746d418dd0dd2997a886",
+      "size": 7979456,
+      "iconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
+      "downloads": 18173361,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/isXander/Controlify",
+      "wikiUrl": "https://docs.isxander.dev/controlify",
+      "issuesUrl": "https://github.com/isXander/Controlify/issues",
+      "dependencies": [
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "size": 1118651,
+          "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "distanthorizons_3_1_2_b_1_21_1_fabric_neoforge",
+      "name": "Distant Horizons",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "See farther without turning your game into a slide show",
+      "filename": "DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "5b6df1e412b093ece73bee8d2c7238743546b9dc70d06f5ea843af3e318e1887",
+      "size": 30140037,
+      "iconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
+      "downloads": 28091041,
+      "categories": [
+        "optimization",
+        "utility"
+      ],
+      "sourceUrl": "https://gitlab.com/distant-horizons-team/distant-horizons",
+      "wikiUrl": "https://gitlab.com/distant-horizons-team/distant-horizons/-/wikis/home",
+      "issuesUrl": "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "sounds_2_4_22_lts_1_21_1_neoforge",
+      "name": "Sounds",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
+      "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+      "size": 8732437,
+      "iconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+      "downloads": 13297480,
+      "categories": [
+        "game-mechanics",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/IMB11/Sounds",
+      "wikiUrl": "https://docs.imb11.dev/sounds/",
+      "issuesUrl": "https://github.com/IMB11/Sounds/issues",
+      "dependencies": [
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "size": 1118651,
+          "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        },
+        {
+          "filename": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+          "size": 243953,
+          "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    }
+  ]
+}
