@@ -1,32 +1,35 @@
 {
-  "version": "1782900170249",
+  "version": "1782900570962",
   "mcVersion": "1.21.1",
   "mods": [
     {
       "id": "controlify_3_0_0_beta_3_1_21_1_neoforge",
-      "name": "Controlify 3.0.0 Beta.3+1.21.1 Neoforge",
-      "description": "Опціональний клієнтський мод.",
+      "name": "Controlify (Controller support)",
+      "description": "Adds the best controller support to Minecraft Java edition!",
       "filename": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
       "sha256": "2d9713d1268401791b9b8a017bda6971c02b4defa800746d418dd0dd2997a886",
       "size": 7979456,
+      "iconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
       "defaultEnabled": false
     },
     {
       "id": "distanthorizons_3_1_2_b_1_21_1_fabric_neoforge",
-      "name": "DistantHorizons 3.1.2 B",
-      "description": "Опціональний клієнтський мод.",
+      "name": "Distant Horizons",
+      "description": "See farther without turning your game into a slide show",
       "filename": "DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar",
       "sha256": "5b6df1e412b093ece73bee8d2c7238743546b9dc70d06f5ea843af3e318e1887",
       "size": 30140037,
+      "iconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
       "defaultEnabled": false
     },
     {
       "id": "sounds_2_4_22_lts_1_21_1_neoforge",
-      "name": "Sounds 2.4.22+lts+1.21.1 Neoforge",
-      "description": "Опціональний клієнтський мод.",
+      "name": "Sounds",
+      "description": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
       "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
       "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
       "size": 8732437,
+      "iconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
       "defaultEnabled": false
     }
   ]
