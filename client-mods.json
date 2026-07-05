@@ -1,0 +1,375 @@
+{
+  "version": "1783242156172",
+  "mcVersion": "1.21.1",
+  "mods": [
+    {
+      "id": "armor_hud_neoforge_1_1_1_mc1_21_1",
+      "name": "guy's Armor HUD",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Adds a vanilla-like widget that shows your armor items and a warning if durability is too low. Originally by BerdinskiyBear, then forked by uku made multiloader by AnAwesomGuy.",
+      "filename": "armor_hud-neoforge-1.1.1+mc1.21.1.jar",
+      "sha256": "83a84a228f1ac7be279e7a5cdc9cac2130fd4109fd3735d4e9b56424cf94e141",
+      "size": 33862,
+      "iconUrl": "https://cdn.modrinth.com/data/AwhZoZsw/417b0e4e2425c43a8cb8bef339c6ac9d89714adf.png",
+      "downloads": 22301,
+      "categories": [
+        "equipment",
+        "game-mechanics",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/AnAwesomGuy/armor-hud",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/AnAwesomGuy/armor-hud/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "chatplus_neoforge_2_8_1",
+      "name": "Chat Plus",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Movable/resizable chat, chat windows, chat tabs, copy/translate/select/bookmark/screenshot messages, player heads, speech to text, filter messages, scrollbar, etc.",
+      "filename": "chatplus-neoforge-2.8.1.jar",
+      "sha256": "92ce1e606076077d9e58ff4350324ba9eeb430bc7977c59c5bf7849cb03361c2",
+      "size": 26908710,
+      "iconUrl": "https://cdn.modrinth.com/data/cJlZ132G/2f952b372883781ab0194c7a80f763f28d1d109c.png",
+      "downloads": 626230,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/ebicep/ChatPlus",
+      "wikiUrl": "https://github.com/ebicep/ChatPlus/wiki",
+      "issuesUrl": "https://github.com/ebicep/ChatPlus/issues",
+      "dependencies": [
+        {
+          "filename": "architectury-13.0.8-neoforge.jar",
+          "size": 584004,
+          "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        },
+        {
+          "filename": "cloth-config-15.0.140-neoforge.jar",
+          "size": 1163890,
+          "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+        },
+        {
+          "filename": "kotlinforforge-5.12.0-all.jar",
+          "size": 7279264,
+          "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "controlify_3_0_0_beta_3_1_21_1_neoforge",
+      "name": "Controlify (Controller support)",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Adds the best controller support to Minecraft Java edition!",
+      "filename": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
+      "sha256": "2d9713d1268401791b9b8a017bda6971c02b4defa800746d418dd0dd2997a886",
+      "size": 7979456,
+      "iconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
+      "downloads": 18424346,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/isXander/Controlify",
+      "wikiUrl": "https://docs.isxander.dev/controlify",
+      "issuesUrl": "https://github.com/isXander/Controlify/issues",
+      "dependencies": [
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "size": 1118651,
+          "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "distanthorizons_3_1_2_b_1_21_1_fabric_neoforge",
+      "name": "Distant Horizons",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "See farther without turning your game into a slide show",
+      "filename": "DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "5b6df1e412b093ece73bee8d2c7238743546b9dc70d06f5ea843af3e318e1887",
+      "size": 30140037,
+      "iconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
+      "downloads": 28402588,
+      "categories": [
+        "optimization",
+        "utility"
+      ],
+      "sourceUrl": "https://gitlab.com/distant-horizons-team/distant-horizons",
+      "wikiUrl": "https://gitlab.com/distant-horizons-team/distant-horizons/-/wikis/home",
+      "issuesUrl": "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "effecttimerplus_neoforge_2_2_7_1_21",
+      "name": "Effect Timer Plus",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Adds a potency and time indicator overlay to status effect icons.",
+      "filename": "effecttimerplus-neoforge-2.2.7+1.21.jar",
+      "sha256": "e1ff8864c5783eece6dcde4c6e4a0c98ac4df2230da5c1811682bba7c4f9e371",
+      "size": 42113,
+      "iconUrl": "https://cdn.modrinth.com/data/JIUF2Wb5/74cccf769bd5dc23e4f7fba54823e941f2afb9f7.png",
+      "downloads": 1271042,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/TerminalMC/EffectTimerPlus",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/TerminalMC/EffectTimerPlus/issues",
+      "dependencies": [
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "size": 1118651,
+          "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "emoji_type_2_3_0_1_21_3_neoforge",
+      "name": "Emoji Type",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Type Minecraft emojis and symbols with simple shortcodes.",
+      "filename": "emoji-type-2.3.0-1.21.3-neoforge.jar",
+      "sha256": "247610eb64d5d1984feea02d548985ac7117bb4bb272a843addd7afe61543fb5",
+      "size": 34298,
+      "iconUrl": "https://cdn.modrinth.com/data/q7vRRpxU/bc891926268337f66bc7269e536c054a410e9a78.webp",
+      "downloads": 3376831,
+      "categories": [
+        "social",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/Norbiros/emojitype",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/Norbiros/emojitype/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "euphoriapatcher_1_9_3_r5_8_1_neoforge",
+      "name": "Euphoria Patches",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Euphoria Patches is an add-on for Complementary Shaders, extending it with more optional features and settings.",
+      "filename": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "sha256": "9ff48c18cb5fd3425a6c15b16ce16656d6419fdb695e662d9a3cbe5604c40563",
+      "size": 4210708,
+      "iconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
+      "downloads": 21242761,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/EuphoriaPatches/EuphoriaPatcher",
+      "wikiUrl": "https://euphoriapatches.com",
+      "issuesUrl": "https://euphoriapatches.com/discord",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "female_gender_mod_neoforge_1_21_3_2_2",
+      "name": "Female Gender Mod",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "The Female Gender Mod introduces extra player model customization options, including a unique feature that adds a personalized touch to your avatar.",
+      "filename": "Female-Gender-Mod-neoforge-1.21-3.2.2.jar",
+      "sha256": "3e5660b4c6734261f267d9ad6650496438befd0d4c04a5677db4ad16a63d9825",
+      "size": 835948,
+      "iconUrl": "https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp",
+      "downloads": 3219903,
+      "categories": [
+        "decoration"
+      ],
+      "sourceUrl": "https://github.com/FemaleGenderMod/FemaleGenderMod",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/FemaleGenderMod/FemaleGenderMod/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "loadingbackgrounds_2_0_0_neoforge_1_20_2_to_1_21_1",
+      "name": "Loading Backgrounds",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "With this mod you will be able to customize the background of the loading screens of the Minecraft games, placing any type of customizable image.",
+      "filename": "loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar",
+      "sha256": "b6a8294942e841c3844254fa4eb1dbb88d1ffe2674aa1829e3f9eccf36a775ba",
+      "size": 173392,
+      "iconUrl": "https://cdn.modrinth.com/data/dH40biZd/a13d8f9cb6a18d0a021ab7dec0d20b50477adedb_96.webp",
+      "downloads": 732511,
+      "categories": [
+        "game-mechanics",
+        "library",
+        "management"
+      ],
+      "sourceUrl": "https://github.com/luavixen/lupin-loadingbackgrounds",
+      "wikiUrl": "",
+      "issuesUrl": "",
+      "dependencies": [
+        {
+          "filename": "architectury-13.0.8-neoforge.jar",
+          "size": 584004,
+          "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "mousetweaks_neoforge_mc1_21_2_26_1",
+      "name": "Mouse Tweaks",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Enhances inventory management by adding various functions to the mouse buttons.",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+      "size": 73938,
+      "iconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+      "downloads": 47293001,
+      "categories": [
+        "storage",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/YaLTeR/MouseTweaks",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/YaLTeR/MouseTweaks/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "overflowingbars_v21_1_1_1_21_1_neoforge",
+      "name": "Overflowing Bars",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.",
+      "filename": "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "sha256": "5f856c47156915fd13ff42917401e488212bb5e2df25fde41f6ec1b032e383db",
+      "size": 78482,
+      "iconUrl": "https://cdn.modrinth.com/data/XD7XOrAF/d90f38fb48581277f61e9f4bb3e1cb8e9ebe47e1_96.webp",
+      "downloads": 8285206,
+      "categories": [
+        "game-mechanics",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/Fuzss/overflowingbars",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/Fuzss/overflowingbars/issues",
+      "dependencies": [
+        {
+          "filename": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+          "size": 1425176,
+          "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/5A6wiMVf/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "punchy_2_6_1_neoforge_1_21_1",
+      "name": "Punchy!",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "A mod that adds various first person animations and visible hands with held items!",
+      "filename": "punchy-2.6.1-neoforge-1.21.1.jar",
+      "sha256": "b6c9058240e956bd16f2f4b85feff5fbc506d2380ad841636e8f73d613ee23f5",
+      "size": 1709177,
+      "iconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+      "downloads": 2016796,
+      "categories": [
+        "decoration",
+        "equipment",
+        "game-mechanics"
+      ],
+      "sourceUrl": "",
+      "wikiUrl": "https://www.punchymod.com/",
+      "issuesUrl": "https://discord.gg/CXttaCyGCN",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "screenshot_viewer_1_3_4_neoforge_mc1_21_1",
+      "name": "Screenshot Viewer",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "View your screenshots in game!",
+      "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "sha256": "a546878ee474237b0535115fec73c9758dd045fb15df7b4bb1cd1b559f077a6a",
+      "size": 122961,
+      "iconUrl": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
+      "downloads": 3243973,
+      "categories": [
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/LGatodu47/ScreenshotViewer",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/LGatodu47/ScreenshotViewer/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "sound_physics_remastered_neoforge_1_21_1_1_4_10",
+      "name": "Sound Physics Remastered",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
+      "sha256": "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42",
+      "size": 199309,
+      "iconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+      "downloads": 44335573,
+      "categories": [
+        "adventure",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/henkelmax/sound-physics-remastered",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/henkelmax/sound-physics-remastered/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    },
+    {
+      "id": "sounds_2_4_22_lts_1_21_1_neoforge",
+      "name": "Sounds",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
+      "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+      "size": 8732437,
+      "iconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+      "downloads": 13503622,
+      "categories": [
+        "game-mechanics",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/IMB11/Sounds",
+      "wikiUrl": "https://docs.imb11.dev/sounds/",
+      "issuesUrl": "https://github.com/IMB11/Sounds/issues",
+      "dependencies": [
+        {
+          "filename": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+          "size": 243953,
+          "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+        },
+        {
+          "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "size": 1118651,
+          "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        }
+      ],
+      "defaultEnabled": false
+    },
+    {
+      "id": "spyglass_improvements_1_5_7_mc1_21_neoforge",
+      "name": "Spyglass Improvements",
+      "description": "Опціональний клієнтський мод.",
+      "longDescription": "Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass.",
+      "filename": "spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+      "sha256": "2f078a00115c23d22c791b526ca939c5b57cc022eebb0371d91b0bb12ee9dd5c",
+      "size": 62864,
+      "iconUrl": "https://cdn.modrinth.com/data/Z6ykjRlM/933fbb18c342abb12fb211c10d8e5600be33bfcc_96.webp",
+      "downloads": 2828110,
+      "categories": [
+        "equipment",
+        "game-mechanics",
+        "utility"
+      ],
+      "sourceUrl": "https://github.com/juancarloscp52/spyglass-improvements",
+      "wikiUrl": "",
+      "issuesUrl": "https://github.com/juancarloscp52/spyglass-improvements/issues",
+      "dependencies": [],
+      "defaultEnabled": false
+    }
+  ]
+}
