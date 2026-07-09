@@ -1,5 +1,5 @@
 {
-  "version": "1783596651424",
+  "version": "1783259189459",
   "mcVersion": "1.21.1",
   "mods": [
     {
@@ -11,7 +11,7 @@
       "sha256": "83a84a228f1ac7be279e7a5cdc9cac2130fd4109fd3735d4e9b56424cf94e141",
       "size": 33862,
       "iconUrl": "https://cdn.modrinth.com/data/AwhZoZsw/417b0e4e2425c43a8cb8bef339c6ac9d89714adf.png",
-      "downloads": 23032,
+      "downloads": 22326,
       "categories": [
         "equipment",
         "game-mechanics",
@@ -24,32 +24,6 @@
       "defaultEnabled": false
     },
     {
-      "id": "axiom_5_1_1_for_mc1_21_1",
-      "name": "Axiom",
-      "description": "Опціональний клієнтський мод.",
-      "longDescription": "The all-in-one tool for editing Minecraft Worlds.",
-      "filename": "Axiom-5.1.1-for-MC1.21.1.jar",
-      "sha256": "ef99bd321a0190ebee0881d26f70a43c8417c5f5a2dbea4c6ff4a25429b6b7ef",
-      "size": 42728924,
-      "iconUrl": "https://cdn.modrinth.com/data/N6n5dqoA/dd175669d5ac228dc00453d13528ad26c1f056ac.png",
-      "downloads": 10112547,
-      "categories": [
-        "management",
-        "utility"
-      ],
-      "sourceUrl": "",
-      "wikiUrl": "https://axiomdocs.moulberry.com/",
-      "issuesUrl": "https://discord.gg/axiomtool",
-      "dependencies": [
-        {
-          "filename": "fabric-api-0.116.13+1.21.1.jar",
-          "size": 2427135,
-          "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/FHknjVVa/fabric-api-0.116.13%2B1.21.1.jar"
-        }
-      ],
-      "defaultEnabled": false
-    },
-    {
       "id": "chatplus_neoforge_2_8_1",
       "name": "Chat Plus",
       "description": "Опціональний клієнтський мод.",
@@ -58,7 +32,7 @@
       "sha256": "92ce1e606076077d9e58ff4350324ba9eeb430bc7977c59c5bf7849cb03361c2",
       "size": 26908710,
       "iconUrl": "https://cdn.modrinth.com/data/cJlZ132G/2f952b372883781ab0194c7a80f763f28d1d109c.png",
-      "downloads": 640701,
+      "downloads": 627219,
       "categories": [
         "utility"
       ],
@@ -66,11 +40,6 @@
       "wikiUrl": "https://github.com/ebicep/ChatPlus/wiki",
       "issuesUrl": "https://github.com/ebicep/ChatPlus/issues",
       "dependencies": [
-        {
-          "filename": "architectury-13.0.8-neoforge.jar",
-          "size": 584004,
-          "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
-        },
         {
           "filename": "cloth-config-15.0.140-neoforge.jar",
           "size": 1163890,
@@ -80,25 +49,13 @@
           "filename": "kotlinforforge-5.12.0-all.jar",
           "size": 7279264,
           "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+        },
+        {
+          "filename": "architectury-13.0.8-neoforge.jar",
+          "size": 584004,
+          "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
         }
       ],
-      "defaultEnabled": false
-    },
-    {
-      "id": "connector_2_0_0_beta_15_1_21_1_full",
-      "name": "Connector 2.0.0 Beta.15+1.21.1 Full",
-      "description": "Опціональний клієнтський мод.",
-      "longDescription": "",
-      "filename": "connector-2.0.0-beta.15+1.21.1-full.jar",
-      "sha256": "687fe56ad3d93228abd1d3aa1e898c796e4697e7be5e6be551fa420487063d40",
-      "size": 4527066,
-      "iconUrl": "",
-      "downloads": 0,
-      "categories": [],
-      "sourceUrl": "",
-      "wikiUrl": "",
-      "issuesUrl": "",
-      "dependencies": [],
       "defaultEnabled": false
     },
     {
@@ -110,7 +67,7 @@
       "sha256": "2d9713d1268401791b9b8a017bda6971c02b4defa800746d418dd0dd2997a886",
       "size": 7979456,
       "iconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
-      "downloads": 18688632,
+      "downloads": 18440355,
       "categories": [
         "utility"
       ],
@@ -135,7 +92,7 @@
       "sha256": "5b6df1e412b093ece73bee8d2c7238743546b9dc70d06f5ea843af3e318e1887",
       "size": 30140037,
       "iconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
-      "downloads": 28782599,
+      "downloads": 28423591,
       "categories": [
         "optimization",
         "utility"
@@ -155,7 +112,7 @@
       "sha256": "e1ff8864c5783eece6dcde4c6e4a0c98ac4df2230da5c1811682bba7c4f9e371",
       "size": 42113,
       "iconUrl": "https://cdn.modrinth.com/data/JIUF2Wb5/74cccf769bd5dc23e4f7fba54823e941f2afb9f7.png",
-      "downloads": 1300708,
+      "downloads": 1272834,
       "categories": [
         "utility"
       ],
@@ -180,7 +137,7 @@
       "sha256": "247610eb64d5d1984feea02d548985ac7117bb4bb272a843addd7afe61543fb5",
       "size": 34298,
       "iconUrl": "https://cdn.modrinth.com/data/q7vRRpxU/bc891926268337f66bc7269e536c054a410e9a78.webp",
-      "downloads": 3412169,
+      "downloads": 3378820,
       "categories": [
         "social",
         "utility"
@@ -200,7 +157,7 @@
       "sha256": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb",
       "size": 567827,
       "iconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
-      "downloads": 79894509,
+      "downloads": 79098361,
       "categories": [
         "mobs",
         "utility"
@@ -226,32 +183,13 @@
       "sha256": "9ff48c18cb5fd3425a6c15b16ce16656d6419fdb695e662d9a3cbe5604c40563",
       "size": 4210708,
       "iconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
-      "downloads": 21506210,
+      "downloads": 21263447,
       "categories": [
         "utility"
       ],
       "sourceUrl": "https://github.com/EuphoriaPatches/EuphoriaPatcher",
       "wikiUrl": "https://euphoriapatches.com",
       "issuesUrl": "https://euphoriapatches.com/discord",
-      "dependencies": [],
-      "defaultEnabled": false
-    },
-    {
-      "id": "fabric_api_0_116_13_1_21_1",
-      "name": "Fabric API",
-      "description": "Опціональний клієнтський мод.",
-      "longDescription": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
-      "filename": "fabric-api-0.116.13+1.21.1.jar",
-      "sha256": "adaa7d67d7b5a9dd2d19f3e2139bf3e63480e09c005c77ada014067443741863",
-      "size": 2427135,
-      "iconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "downloads": 201086261,
-      "categories": [
-        "library"
-      ],
-      "sourceUrl": "https://github.com/FabricMC/fabric",
-      "wikiUrl": "https://fabricmc.net/wiki/",
-      "issuesUrl": "https://github.com/FabricMC/fabric/issues",
       "dependencies": [],
       "defaultEnabled": false
     },
@@ -264,7 +202,7 @@
       "sha256": "3e5660b4c6734261f267d9ad6650496438befd0d4c04a5677db4ad16a63d9825",
       "size": 835948,
       "iconUrl": "https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp",
-      "downloads": 3248645,
+      "downloads": 3221833,
       "categories": [
         "decoration"
       ],
@@ -283,7 +221,7 @@
       "sha256": "b6a8294942e841c3844254fa4eb1dbb88d1ffe2674aa1829e3f9eccf36a775ba",
       "size": 173392,
       "iconUrl": "https://cdn.modrinth.com/data/dH40biZd/a13d8f9cb6a18d0a021ab7dec0d20b50477adedb_96.webp",
-      "downloads": 737963,
+      "downloads": 732838,
       "categories": [
         "game-mechanics",
         "library",
@@ -310,7 +248,7 @@
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
       "size": 73938,
       "iconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
-      "downloads": 47868641,
+      "downloads": 47326169,
       "categories": [
         "storage",
         "utility"
@@ -330,7 +268,7 @@
       "sha256": "5f856c47156915fd13ff42917401e488212bb5e2df25fde41f6ec1b032e383db",
       "size": 78482,
       "iconUrl": "https://cdn.modrinth.com/data/XD7XOrAF/d90f38fb48581277f61e9f4bb3e1cb8e9ebe47e1_96.webp",
-      "downloads": 8356407,
+      "downloads": 8289346,
       "categories": [
         "game-mechanics",
         "utility"
@@ -356,7 +294,7 @@
       "sha256": "b6c9058240e956bd16f2f4b85feff5fbc506d2380ad841636e8f73d613ee23f5",
       "size": 1709177,
       "iconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
-      "downloads": 2131534,
+      "downloads": 2023619,
       "categories": [
         "decoration",
         "equipment",
@@ -377,7 +315,7 @@
       "sha256": "a546878ee474237b0535115fec73c9758dd045fb15df7b4bb1cd1b559f077a6a",
       "size": 122961,
       "iconUrl": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
-      "downloads": 3271543,
+      "downloads": 3245664,
       "categories": [
         "utility"
       ],
@@ -396,7 +334,7 @@
       "sha256": "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42",
       "size": 199309,
       "iconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
-      "downloads": 44763277,
+      "downloads": 44359561,
       "categories": [
         "adventure",
         "utility"
@@ -416,7 +354,7 @@
       "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
       "size": 8732437,
       "iconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
-      "downloads": 13723121,
+      "downloads": 13518208,
       "categories": [
         "game-mechanics",
         "utility"
@@ -426,14 +364,14 @@
       "issuesUrl": "https://github.com/IMB11/Sounds/issues",
       "dependencies": [
         {
+          "filename": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+          "size": 243953,
+          "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+        },
+        {
           "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
           "size": 1118651,
           "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
-        },
-        {
-          "filename": "mru-1.0.30+1.21.1-neoforge.jar",
-          "size": 117427,
-          "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/32pa8CKK/mru-1.0.30%2B1.21.1-neoforge.jar"
         }
       ],
       "defaultEnabled": false
@@ -447,7 +385,7 @@
       "sha256": "2f078a00115c23d22c791b526ca939c5b57cc022eebb0371d91b0bb12ee9dd5c",
       "size": 62864,
       "iconUrl": "https://cdn.modrinth.com/data/Z6ykjRlM/933fbb18c342abb12fb211c10d8e5600be33bfcc_96.webp",
-      "downloads": 2854754,
+      "downloads": 2829525,
       "categories": [
         "equipment",
         "game-mechanics",
